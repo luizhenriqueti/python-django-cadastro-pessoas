@@ -2,6 +2,7 @@ db.sqlite3
 
 #Enviroments
 venv/
+.env
 
 #Django sutff
 .log
